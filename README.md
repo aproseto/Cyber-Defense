@@ -5,19 +5,18 @@ The Cyber Defense Learning Path from TryHackMe aims to give an introduction to s
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows CMD/Powershell to enumerate, use programs, parse through data, and read files.
+- Nessus to run a network scan and interpret results.
+- Yara to write rules and detect patterns and create rules.
+- Zero Logon to learn about the vulnerability that let malicious actors gain Domain Admin without credentials.
+- OpenVas to scan a target IP and receive a report about vulnerabilities.
+- Splunk to parse through logs and analyze potential breaches.
+- Volatility to perform memory forensics.
+- Autopsy to investigate artifacts from disk images.
+- Redline to scan for Indicators of Compromise on an Endpoint.
 
 ## Steps
 ![THM-YXZRRCQDQP](https://github.com/user-attachments/assets/9122d5d9-a123-4fcb-b12d-6d5d517bea1f)
