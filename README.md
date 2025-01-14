@@ -1,7 +1,7 @@
 # Cyber Defense
 
 ## Objective
-The Cyber Defense Learning Path from TryHackMe aims to give an introduction to skills needed to detect and respond to various threats. The primary focus was learning about Threat and Vulnerability Management, Security Operations & Monitoring, Threat Emulation, Incident Response & Forensics, and Malware Analysis & Reverse Engineering. This hands-on experience is crucial in getting practice with more tools that will be utilized in the workplace and provided in-depth learning on components of detecting and responding to threats from a comporate environment.
+The Cyber Defense Learning Path from TryHackMe aims to give an introduction to skills needed to detect and respond to various threats. The primary focus was learning about Threat and Vulnerability Management, Security Operations & Monitoring, Threat Emulation, Incident Response & Forensics, and Malware Analysis & Reverse Engineering. This hands-on experience is crucial in getting practice with more tools that will be utilized in the workplace and providing in-depth learning on components of detecting and responding to threats from a corporate environment.
 
 ### Skills Learned
 - Networking Theory and Tools.
